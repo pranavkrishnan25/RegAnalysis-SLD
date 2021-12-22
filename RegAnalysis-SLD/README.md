@@ -1,5 +1,3 @@
-# Stemanities_Submission_Code
-
 #### train.ipynb
 
 -   Trains an LSTM model to predict GDP for a set number of quarters.
